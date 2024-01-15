@@ -1,0 +1,4 @@
+name: simple
+description: A simple brick
+version: 0.1.0+1
+publish_to: none
