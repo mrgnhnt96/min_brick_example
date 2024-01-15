@@ -11,7 +11,7 @@
    - Fails with the following error:
 
    ```console
-    mason flutter pub run mason_cli:mason make simple
+   $: flutter pub run mason_cli:mason make simple
    Deprecated. Use `dart run` instead.
    Building package executable... (2.1s)
    Built mason_cli:mason.
